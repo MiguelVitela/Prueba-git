@@ -11,3 +11,7 @@ print("La suma de {} y {} es igual a {}".format(numero1, numero2, resultado))
 
 # Muestra el valor de la constante de Euler
 print(math.e)
+print(math.sin(56))
+print(math.sin(math.pi))
+print(math.tan(math.pi))
+print(math.cos(math.pi))
