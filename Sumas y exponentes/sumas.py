@@ -9,3 +9,5 @@ print(math.pi)
 
 # Calcula el seno de pi:
 print(math.sin(math.pi))
+
+print("Aqui andamos añadiendo funcionalidades para practicar con git")
